@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Aron 👋</h1>
 
-<!--
-**Keeprope/Keeprope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Hacker in training | Coder with a cause | Founder of <code>$sudo</code></b><br/>
+  <i>On a mission to build powerful tools, learn ethical hacking, and dominate the command line.</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- 🔐 Learning cybersecurity with TryHackMe
+- 🧠 Building Python hacking tools
+- ⚙️ Practicing Linux + Networking skills
+
+---
+
+### 🛠️ Tools of the Trade
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+<img src="https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudio" />
+
+---
+
+### 📂 My Repos
+- 🔍 [`sudo-scanner`](#) – Python port scanner (coming soon)
+- 🔐 [`web-vuln-lab`](#) – Practice web vulnerabilities (coming soon)
+- 🛠️ More tools dropping weekly — stay tuned...
+
+---
+
+### ⚡ `$sudo` Motto
+> *“We don’t ask for permission — we run as root.”*
